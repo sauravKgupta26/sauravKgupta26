@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java/QA/SDET Automation.
 - 🌱 I’m currently learning JavaScript, Puppeteer, Performance Testing and DevOps
 - 💞️ I’m looking to collaborate with other QA's & Developers in the community.
-- 📫 How to reach me via Email- kumar1998saurav@gmail.com
+- 📫 How to reach me via Email- sauravofficial967@gmail.com
 - ⚡ Fun fact: Pretty good with learning new technologies.
 
 <table style="width:100%">
