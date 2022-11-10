@@ -20,6 +20,3 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Selenium" width="100" height="40"/>  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Selenium" width="100" height="40"/> 
 
-<br>
-<hr>
-<br>
