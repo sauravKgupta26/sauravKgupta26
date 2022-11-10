@@ -1,16 +1,25 @@
-### Hi there 👋
+- 👋 Hi, I’m Saurav Gupta (@sauravKgupta26)
+- 👀 I’m interested in Java/QA/SDET Automation.
+- 🌱 I’m currently learning JavaScript, Puppeteer, Cypress and DevOps
+- 💞️ I’m looking to collaborate with other QA's & Developers in the community.
+- 📫 How to reach me via Email- kiet.shishu+github@gmail.com
+- ⚡ Fun fact: Pretty good with learning new technologies.
 
-<!--
-**sauravKgupta26/sauravKgupta26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table style="width:100%">
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravKgupta26&layout=compact" /></th>
+    
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com/" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="c" width="100" height="40"/> </a> <a href="https://www.java.com/" target="_blank"> 
+<a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium" width="100" height="40"/> </a> <a href="https://www.java.com/" target="_blank"> <a href="https://www.selenium.dev/" target="_blank">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Selenium" width="100" height="40"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Selenium" width="100" height="40"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Selenium" width="100" height="40"/>  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Selenium" width="100" height="40"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<hr>
+<br>
