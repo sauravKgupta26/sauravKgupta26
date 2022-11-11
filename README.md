@@ -3,14 +3,8 @@
 - 🌱 I’m currently learning JavaScript,Performance Testing and DevOps
 - 💞️ I’m looking to collaborate with other QA's & Developers in the community.
 - 📫 How to reach me via Email- sauravofficial967@gmail.com
-- ⚡ Fun fact: Pretty good with learning new technologies.
+- ⚡ Interesting fact: Pretty good in playing with Automtion tools.
 
-<table style="width:100%">
-  <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravKgupta26&layout=compact" /></th>
-    
-  </tr>
-</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com/" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="c" width="100" height="40"/> </a> <a href="https://www.java.com/" target="_blank"> 
